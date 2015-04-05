@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For UselessBox
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+USELESSBOX	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+initialise KEYWORD2
+run	KEYWORD2
+initLidServo KEYWORD2
+initSwitchServo KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
